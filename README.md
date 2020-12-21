@@ -6,7 +6,7 @@
 
 I am a front-end developer, focused on JavaScript and its entire ecosystem using the main technologies of the market.
 
-#Test everything!
+#TestEverything!
 
 Currently working at <a href="https://dasa.com.br/" target="_blank">Dasa</a> 
 
@@ -45,8 +45,6 @@ Currently working at <a href="https://dasa.com.br/" target="_blank">Dasa</a>
 <a href="https://travis-ci.org/" title="Travis CI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/travis-ci.svg" alt="Travis CI" width="21px" height="21px"></a>
 <a href="https://coveralls.io/" title="Coveralls"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/coveralls.svg" alt="Coveralls" width="21px" height="21px"></a>
 <a href="https://about.gitlab.com/" title="Gitlab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="Gitlab" width="21px" height="21px"></a>
-
-
 
 <br />
 
