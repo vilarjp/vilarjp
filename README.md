@@ -8,7 +8,7 @@ I am a front-end developer, focused on JavaScript and its entire ecosystem using
 
 #TestEverything!
 
-Currently working at <a href="https://dasa.com.br/" target="_blank">Dasa</a> 
+Currently working at <a href="https://www.linkedin.com/company/dasa" target="_blank">Dasa</a> 
 
 **Languages and Tools**
 
