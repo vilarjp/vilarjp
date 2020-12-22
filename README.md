@@ -42,6 +42,7 @@ Currently working at <a href="https://www.linkedin.com/company/dasa" target="_bl
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
 <a href="https://jenkins-ci.org/" title="Jenkins"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jenkins.svg" alt="Jenkins" width="21px" height="21px"></a>
+<a href="https://www.sonarqube.org/" title="SonarQube"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sonarqube.svg" alt="SonarQube" width="21px" height="21px"></a>
 <a href="https://travis-ci.org/" title="Travis CI"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/travis-ci.svg" alt="Travis CI" width="21px" height="21px"></a>
 <a href="https://coveralls.io/" title="Coveralls"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/coveralls.svg" alt="Coveralls" width="21px" height="21px"></a>
 <a href="https://about.gitlab.com/" title="Gitlab"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gitlab.svg" alt="Gitlab" width="21px" height="21px"></a>
