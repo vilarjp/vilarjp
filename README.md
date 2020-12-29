@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-vilarjp.github.io-black)](https://vilarjp.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-vilar/)](https://www.linkedin.com/in/joao-paulo-vilar/)
 [![E-mail Badge](https://img.shields.io/badge/Mail-vilarjp@hotmail.com-black)](vilarjp@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-vilar/)](https://www.linkedin.com/in/joao-paulo-vilar/)
 
 I am a front-end developer, focused on JavaScript and its entire ecosystem using its main technologies.
 
