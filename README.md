@@ -101,5 +101,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilarjp&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="vilarjp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilarjp&show_icons=true&locale=en&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="vilarjp" /></p>
