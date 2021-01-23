@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Dasa](https://www.linkedin.com/company/dasa)
 
-- 🌱 I’m currently learning **testing, clean code and clean architecture**
+- 🌱 I’m enthusiastic about **testing, clean code and clean architecture**
 
 - 👨‍💻 All of my projects are available at [http://vilarjp.github.io/](http://vilarjp.github.io/)
 
@@ -21,6 +21,11 @@
   <li>
     React
     <ul>
+      <li>
+        <a href="https://github.com/vilarjp/epic-react-app" target="blank">
+           Epic React App
+        </a>
+      </li>
       <li>
         <a href="https://github.com/vilarjp/react-clean-architecture" target="blank">
           React-Clean-Architecture
