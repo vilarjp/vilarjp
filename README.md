@@ -27,6 +27,11 @@
         </a>
       </li>
       <li>
+        <a href="https://github.com/vilarjp/react-transactions" target="blank">
+          React-Transactions
+        </a>
+      </li>
+      <li>
         <a href="https://github.com/vilarjp/react-clean-architecture" target="blank">
           React-Clean-Architecture
         </a>
@@ -44,11 +49,6 @@
       <li>
         <a href="https://github.com/vilarjp/react-gobarber-frontend" target="blank">
           React-GoBarber-FrontEnd
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/vilarjp/react-rocketshoes" target="blank">
-          React-RocketShoes
         </a>
       </li>
     </ul>
