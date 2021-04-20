@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">I am a front-end developer, focused on JavaScript and its entire ecosystem using its main technologies.</h3>
 
-- 🔭 I’m currently working at [Dasa](https://www.linkedin.com/company/dasa)
+- 🔭 I’m currently working at [Cuidas](https://cuidas.com.br/)
 
 - 🌱 I’m enthusiastic about **testing, clean code and clean architecture**
 
