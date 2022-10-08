@@ -5,8 +5,6 @@
 
 - 🌱 I’m enthusiastic about **testing, clean code and clean architecture**
 
-- 👨‍💻 All of my projects are available at [http://vilarjp.github.io/](http://vilarjp.github.io/)
-
 - 📫 How to reach me **vilarjp93@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-paulo-vilar/](https://www.linkedin.com/in/joao-paulo-vilar/)
